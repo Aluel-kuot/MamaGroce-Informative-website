@@ -69,6 +69,15 @@ margin-left: 55%;
 }
 .story{
     color: #021b14;
-    margin-left: 20%;
     margin-top: 5%;
 }
+.ourstory{
+text-align: center;
+}
+.story{
+    color: #021b14;
+    margin-top: 5%;
+    text-align: center;
+ 
+}
+
