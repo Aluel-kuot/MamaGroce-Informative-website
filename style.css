@@ -1,3 +1,4 @@
+howitworks.html
 *{
   box-sizing: border-box;
   margin: 0;
@@ -50,10 +51,7 @@ h4{
 }
 .feature-text{
 font-size: 20px;
-}
-
-
-
+ howitworks.html
 /*---category---*/
 #category{
   padding:40px;
