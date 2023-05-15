@@ -1,7 +1,7 @@
 
 
 .about{
-    background-color: #c3fae8;
+    background-color:white;
 }
 .veges{
     width: 130%;
@@ -81,3 +81,7 @@ text-align: center;
  
 }
 
+.logo{
+    width: 10%;
+    height: 100px;
+}
