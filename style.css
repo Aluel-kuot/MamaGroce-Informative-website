@@ -1,0 +1,23 @@
+body{
+   
+ background-image: url(/images/grocegroce.jpg);
+ background-size: cover;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 180px;
+    color:  #20784D;
+    font-size: x-large;
+} 
+
+.welcome{
+   text-align: center;
+   font-size: x-large;
+   
+}
+
+
+
+
